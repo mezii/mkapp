@@ -20,16 +20,16 @@ Name: IPA Installer Console
 Sponsor: thebigboss.org <http://thebigboss.org/>
 
 Package: com.mins.lunast
-Version: 1.5-112+debug
+Version: 1.5-113+debug
 Architecture: iphoneos-arm
 Maintainer: Mins
-Installed-Size: 2236
+Installed-Size: 2380
 Depends: mobilesubstrate, applist, jetslammed
-Filename: ./debs/com.mins.lunast_1.5-112+debug_iphoneos-arm.deb
-Size: 387146
-MD5sum: f804a5bef825944cb5f9c15291ee61b6
-SHA1: e5e1447b98cf63fc446a98db9d21cce876dc7a48
-SHA256: aad416fe82874421b6f87b68e001c91cdb7ad03299ee24c8f60ea6b9ff72b3ca
+Filename: ./debs/com.mins.lunast_1.5-113+debug_iphoneos-arm.deb
+Size: 404376
+MD5sum: 1f58fb11ace159580b3b3774770c4e4e
+SHA1: 702987f6094168993d52887e19cc45473ed2e836
+SHA256: 3f497652a7950b14263b9cb9c3b11017f91caf019eec5e1e337d2453f4b80867
 Section: Tweaks
 Description: Luna Touch Packaged
 Author: Mins
