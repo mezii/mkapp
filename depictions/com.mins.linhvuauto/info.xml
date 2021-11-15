@@ -1,6 +1,6 @@
 <package>
 	<id>com.mins.linhvuauto</id>
-	<name>Auto Touch Cracked</name>
+	<name>Test Tweak</name>
 	<version>1.7.0</version>
 	<compatibility>
 		<firmware>
@@ -10,7 +10,7 @@
 	</compatibility>
 	<dependencies>No</dependencies>
 	<descriptionlist>
-		<description>AutoTouch</description>
+		<description>Test Tweak</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
